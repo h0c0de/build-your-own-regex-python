@@ -41,4 +41,4 @@ Di luar cakupan panduan (dicatat, bukan disembunyikan): kelas karakter
 
 - [x] Tiga mesin terbukti oleh uji diferensial melawan `re`.
 - [x] `CATATAN.md` satu halaman per irisan: konsep inti + temuan.
-- [ ] Repo GitHub publik `build-your-own-regex-python` terbit & terverifikasi.
+- [x] Repo GitHub publik `build-your-own-regex-python` terbit & terverifikasi.
